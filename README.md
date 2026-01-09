@@ -1,4 +1,3 @@
-<img width="476" height="840" alt="image" src="https://github.com/user-attachments/assets/25514700-05d6-4063-88e6-b8f11490fd4f" /># 🏢 Office Buildings Manager — Android + Clean Architecture
 
 Проект реализует **многослойную архитектуру** для управления данными об офисных зданиях с поддержкой **CRUD-операций**, **Dependency Injection (Hilt)**, **ROOM-базы данных** и **тестирования**.  
 Исходная логика взята из задачи по объектно-ориентированному программированию:  
@@ -9,7 +8,11 @@
 ## 📁 Структура проекта
 
 <img width="476" height="840" alt="image" src="https://github.com/user-attachments/assets/db47dbb1-506c-4b33-8254-f111c00120ac" />
+
+
 <img width="396" height="215" alt="image" src="https://github.com/user-attachments/assets/4215b219-5bee-4e01-bef6-263d76700f6e" />
+
+
 <img width="530" height="569" alt="image" src="https://github.com/user-attachments/assets/b17e2776-dd3d-49dd-86f4-6d5753327d49" />
 
 
