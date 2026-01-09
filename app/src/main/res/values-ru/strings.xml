@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные строки -->
+    <string name="app_name">Офисные здания</string>
+
+    <!-- Основной экран -->
+    <string name="buildings_title">Офисные здания</string>
+    <string name="add_building">Добавить здание</string>
+    <string name="no_buildings">Нет зданий</string>
+    <string name="tap_to_add">Нажмите + чтобы добавить</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="save">Сохранить</string>
+    <string name="back">Назад</string>
+
+    <!-- Типы зданий -->
+    <string name="type_without_parking">Без парковки</string>
+    <string name="type_with_parking">С парковкой</string>
+    <string name="parking_spaces">Мест: %d</string>
+    <string name="monthly_rent">Аренда: %s/мес</string>
+
+    <!-- Поля ввода -->
+    <string name="building_address">Адрес</string>
+    <string name="without_parking">Без парковки</string>
+    <string name="with_parking">С парковкой</string>
+    <string name="parking_spaces_label">Количество мест</string>
+    <string name="monthly_rent_label">Стоимость аренды (в месяц)</string>
+
+    <!-- Заголовки -->
+    <string name="add_building_title">Добавить здание</string>
+    <string name="edit_building_title">Редактировать здание</string>
+    <string name="building_details">Детали здания</string>
+    <string name="validation_address_empty">Адрес не может быть пустым</string>
+    <string name="validation_parking_spaces_required">Укажите количество парковочных мест</string>
+    <string name="validation_parking_spaces_invalid">Некорректное количество парковочных мест</string>
+    <string name="validation_parking_spaces_positive">Количество парковочных мест должно быть положительным</string>
+    <string name="validation_monthly_rent_required">Укажите стоимость аренды</string>
+    <string name="validation_monthly_rent_invalid">Некорректная стоимость аренды</string>
+    <string name="validation_monthly_rent_positive">Стоимость аренды должна быть положительной</string>
+
+    <string name="error_building_not_found">Здание не найдено</string>
+    <string name="error_load_building">Не удалось загрузить здание</string>
+    <string name="error_save_building">Не удалось сохранить здание</string>
+    <string name="error_validation_errors">Исправьте ошибки валидации</string>
+    <string name="building_address_hint">Введите адрес</string>
+</resources>

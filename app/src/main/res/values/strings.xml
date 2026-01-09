@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные строки -->
+    <string name="app_name">Office Buildings</string>
+
+    <!-- Основной экран -->
+    <string name="buildings_title">Office Buildings</string>
+    <string name="add_building">Add Building</string>
+    <string name="no_buildings">No buildings</string>
+    <string name="tap_to_add">Tap + to add</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+
+    <!-- Типы зданий -->
+    <string name="type_without_parking">Without parking</string>
+    <string name="type_with_parking">With parking</string>
+    <string name="parking_spaces">Spaces: %d</string>
+    <string name="monthly_rent">Rent: %s/month</string>
+
+    <!-- Поля ввода -->
+    <string name="building_address">Address</string>
+    <string name="without_parking">Without parking</string>
+    <string name="with_parking">With parking</string>
+    <string name="parking_spaces_label">Number of spaces</string>
+    <string name="monthly_rent_label">Rental cost (per month)</string>
+
+    <!-- Заголовки -->
+    <string name="add_building_title">Add Building</string>
+    <string name="edit_building_title">Edit Building</string>
+    <string name="building_details">Building Details</string>
+    <string name="validation_address_empty">Address cannot be empty</string>
+    <string name="validation_parking_spaces_required">Please specify number of parking spaces</string>
+    <string name="validation_parking_spaces_invalid">Invalid number of parking spaces</string>
+    <string name="validation_parking_spaces_positive">Number of parking spaces must be positive</string>
+    <string name="validation_monthly_rent_required">Please specify rental cost</string>
+    <string name="validation_monthly_rent_invalid">Invalid rental cost</string>
+    <string name="validation_monthly_rent_positive">Rental cost must be positive</string>
+
+    <!-- Ошибки -->
+    <string name="error_building_not_found">Building not found</string>
+    <string name="error_load_building">Failed to load building</string>
+    <string name="error_save_building">Failed to save building</string>
+    <string name="error_validation_errors">Please fix validation errors</string>
+    <string name="building_address_hint">Enter address</string>
+</resources>
